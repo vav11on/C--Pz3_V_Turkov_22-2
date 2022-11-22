@@ -7,3 +7,9 @@ int main() {
     cout << names[3] << endl;
     return 0;
 }
+"E:\Projects C++\C--Pz3_V_Turkov_22-2\cmake-build-debug\C__Pz3_V_Turkov_22_2.exe"
+Mariya
+        Olga
+
+Process finished with exit code 0
+
